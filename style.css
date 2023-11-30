@@ -19,7 +19,7 @@ p {
 
 /********** Codons dans l'orde des balises **********/
 body {
-  min-height: 100vh; /* 100vh = 100% de la hauteur de l'écran de l'utilisateur */
+  /* 100vh = 100% de la hauteur de l'écran de l'utilisateur */
   background: rgb(29, 29, 29);
   color: rgb(250, 250, 250);
 }
