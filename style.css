@@ -28,7 +28,7 @@ body {
 nav {
   display: grid;
   grid-template-columns: 50% 50%;
-  padding: 00px 20px; /* 10px en haut et en bas et 20px à gauche et à droite */
+  padding: 10px 20px; /* 10px en haut et en bas et 20px à gauche et à droite */
 }
 
 nav ul {
