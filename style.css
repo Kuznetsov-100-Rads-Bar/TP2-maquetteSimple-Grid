@@ -27,7 +27,7 @@ body {
 /* Navigation */
 nav {
   display: grid;
-  grid-template-columns: 70% 30%;
+  grid-template-columns: 20% 30%;
   padding: 10px 20px; /* 10px en haut et en bas et 20px à gauche et à droite */
 }
 
